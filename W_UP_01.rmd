@@ -49,6 +49,11 @@ boxplot(pushups~position,data=mydata)
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(pushups~position,data=mydata)
+```
+  
+  The mean, or average, for the linebackers is about 17 pushups, while the mean for the skilled players is about 50. Based off of this information, we can see the skilled players typically do better with pushups as they have an average of 33 more pushups than the linebackers.
 
 ## Inferential Results
 
