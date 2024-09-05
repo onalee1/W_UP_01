@@ -68,3 +68,4 @@ t.test(pushups~position,data=mydata)
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+  In conclusion, it is apparent with the given data that skilled players typically are able to endure more pushups than linebackers. As seen with the boxplot, the lower bound of skilled players is still higher than the upper bound of linebackers, meaning there is a significant difference in data between the two. This is supported by the p-value. Also, the mean value of skill players is much higher than the mean value of linebackers.
